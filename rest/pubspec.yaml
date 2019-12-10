@@ -1,0 +1,15 @@
+name: rest
+description: A simple (incomplete) RESTFUL API client wrapper of the dart http module.
+version: 0.0.1
+author: xinthink
+homepage: https://github.com/xinthink/fltpkg/rest
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  http:
+
+dev_dependencies:
+  test:
+  pedantic:
